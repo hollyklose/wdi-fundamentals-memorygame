@@ -92,3 +92,27 @@ footer p {
 	color: #F15B31;
 	font-weight: 700;
 }
+.game-score {
+	color: #F15B31;
+	font-family: Raleway;
+	font-weight: 500;
+	display: inline;
+	float: right;
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+}
+button {
+	color: #F15B31;
+	font-family: Raleway;
+	font-weight: 900;
+	float: left;
+	border: 2px grey solid;
+	border-radius: 10px;
+	font-size: 16px;
+	margin: 0;
+	padding: 2;
+}
+button:hover {
+	background-color: #00A6B3;
+}
